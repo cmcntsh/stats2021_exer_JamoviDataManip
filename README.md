@@ -1,4 +1,4 @@
-# Data Manipulation in Jamovi Tutorial
+# Data Manipulation in Jamovi Exercise
 
 ## Summary of steps to complete
 
