@@ -1,5 +1,7 @@
 # Data Manipulation in Jamovi Exercise
 
+A video demonstration of this exercise can be seen at: https://youtu.be/sHBA0zr_DRo
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
