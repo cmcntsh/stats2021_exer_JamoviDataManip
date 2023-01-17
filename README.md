@@ -12,23 +12,7 @@ A video demonstration of this exercise can be seen at: https://youtu.be/sHBA0zr_
 
 ## Fork & Clone this repository
 
-* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/exerGitPractice
-* This can also be done directly in RStudio
-  * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
-  * Copy the Clone or Download path for this repository from GitHub.
-  * In RStudio - File - New Project... - Version Control - Git 
-  * Paste the URL in the Repository URL: field.
-  * Click Browse... and navigate to your folder.
-  * Click Create Project.
-  * Be patient. RStudio will clone the repository and create a new project.
-  * When it is complete you should see the files from the repository in the Files pane at the bottom right of the window.
-* This can also be done directly in VSCode
-  * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
-  * Copy the Clone or Download path for this repository from GitHub.
-  * In VSCode from the command pallette (Ctrl-Shift-P) run Git: Clone
-  * Paste the path into the path field which pops up
-  * Select your new folder you created on your machine
-  * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
+* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/gitHubForClassAssignmentsRStudio
 
 ## Follow along with this tutorial
 
